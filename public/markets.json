@@ -1,0 +1,1005 @@
+{
+  "data": [
+    {
+      "exchangeId": "Zaif",
+      "baseId": "counterparty",
+      "quoteId": "bitcoin",
+      "baseSymbol": "XCP",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": null,
+      "priceUsd": "63588.3028699191189616",
+      "volumePercent": null
+    },
+    {
+      "exchangeId": "Binance",
+      "baseId": "bitcoin",
+      "quoteId": "tether",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "USDT",
+      "volumeUsd24Hr": "2500523092.0961942670825720",
+      "priceUsd": "61461.1224970370105409",
+      "volumePercent": "13.1559697434726087"
+    },
+    {
+      "exchangeId": "Crypto.com Exchange",
+      "baseId": "bitcoin",
+      "quoteId": "tether",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "USDT",
+      "volumeUsd24Hr": "1941402770.7743940600457973",
+      "priceUsd": "61497.8345747173839803",
+      "volumePercent": "10.2142772418033170"
+    },
+    {
+      "exchangeId": "Huobi",
+      "baseId": "bitcoin",
+      "quoteId": "tether",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "USDT",
+      "volumeUsd24Hr": "782623301.7995762041672303",
+      "priceUsd": "61042.8069881353726191",
+      "volumePercent": "4.1176058367773580"
+    },
+    {
+      "exchangeId": "ZB",
+      "baseId": "bitcoin",
+      "quoteId": "tether",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "USDT",
+      "volumeUsd24Hr": "735941891.1711565985507279",
+      "priceUsd": "61245.9344735560866189",
+      "volumePercent": "3.8720015359207422"
+    },
+    {
+      "exchangeId": "HitBTC",
+      "baseId": "bitcoin",
+      "quoteId": "tether",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "USDT",
+      "volumeUsd24Hr": "724147785.7692532953174807",
+      "priceUsd": "61479.5786233299790857",
+      "volumePercent": "3.8099493619939286"
+    },
+    {
+      "exchangeId": "Okex",
+      "baseId": "bitcoin",
+      "quoteId": "tether",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "USDT",
+      "volumeUsd24Hr": "626612062.3424153065198480",
+      "priceUsd": "61463.9049282243452782",
+      "volumePercent": "3.2967859241648051"
+    },
+    {
+      "exchangeId": "Bitrue",
+      "baseId": "bitcoin",
+      "quoteId": "tether",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "USDT",
+      "volumeUsd24Hr": "449451126.9207399992252303",
+      "priceUsd": "61115.8307936849921974",
+      "volumePercent": "2.3646913902251029"
+    },
+    {
+      "exchangeId": "Kucoin",
+      "baseId": "bitcoin",
+      "quoteId": "tether",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "USDT",
+      "volumeUsd24Hr": "420440978.4879562197431221",
+      "priceUsd": "61453.0954833239081695",
+      "volumePercent": "2.2120606721798602"
+    },
+    {
+      "exchangeId": "WhiteBIT",
+      "baseId": "bitcoin",
+      "quoteId": "tether",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "USDT",
+      "volumeUsd24Hr": "414503806.5823938278905806",
+      "priceUsd": "61410.9586657027598108",
+      "volumePercent": "2.1808235065650867"
+    },
+    {
+      "exchangeId": "Coinbene",
+      "baseId": "bitcoin",
+      "quoteId": "tether",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "USDT",
+      "volumeUsd24Hr": "391891056.7899179729374636",
+      "priceUsd": "61415.3525048798819319",
+      "volumePercent": "2.0618513390906643"
+    },
+    {
+      "exchangeId": "Binance",
+      "baseId": "ethereum",
+      "quoteId": "bitcoin",
+      "baseSymbol": "ETH",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "374322118.1481695382136860",
+      "priceUsd": "61340.7637808074462318",
+      "volumePercent": "1.9684820868023734"
+    },
+    {
+      "exchangeId": "Binance",
+      "baseId": "decentraland",
+      "quoteId": "bitcoin",
+      "baseSymbol": "MANA",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "341074966.6340362455931664",
+      "priceUsd": "62028.4080848808890378",
+      "volumePercent": "1.8137493877987796"
+    },
+    {
+      "exchangeId": "LBank",
+      "baseId": "bitcoin",
+      "quoteId": "tether",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "USDT",
+      "volumeUsd24Hr": "305572690.5405493858918595",
+      "priceUsd": "61131.7246811867460201",
+      "volumePercent": "1.6077056372284581"
+    },
+    {
+      "exchangeId": "YoBit",
+      "baseId": "ethereum",
+      "quoteId": "bitcoin",
+      "baseSymbol": "ETH",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "264600438.4434288798702555",
+      "priceUsd": "61082.9463765079941248",
+      "volumePercent": "1.3856301829544912"
+    },
+    {
+      "exchangeId": "BigONE",
+      "baseId": "bitcoin",
+      "quoteId": "tether",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "USDT",
+      "volumeUsd24Hr": "238210172.7376683091508643",
+      "priceUsd": "61353.5985465134958575",
+      "volumePercent": "1.2532920951739759"
+    },
+    {
+      "exchangeId": "Okex",
+      "baseId": "decentraland",
+      "quoteId": "bitcoin",
+      "baseSymbol": "MANA",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "235923382.8509430740190285",
+      "priceUsd": "61492.8725089268127241",
+      "volumePercent": "1.2437484874234118"
+    },
+    {
+      "exchangeId": "Gate",
+      "baseId": "bitcoin",
+      "quoteId": "tether",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "USDT",
+      "volumeUsd24Hr": "195759696.3343674492892581",
+      "priceUsd": "61495.7927906806347486",
+      "volumePercent": "1.0299479537328939"
+    },
+    {
+      "exchangeId": "Coinsbit",
+      "baseId": "bitcoin",
+      "quoteId": "tether",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "USDT",
+      "volumeUsd24Hr": "194525448.5972325497126574",
+      "priceUsd": "60539.6936523618266819",
+      "volumePercent": "1.0234542221064908"
+    },
+    {
+      "exchangeId": "DigiFinex",
+      "baseId": "bitcoin",
+      "quoteId": "tether",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "USDT",
+      "volumeUsd24Hr": "165582977.2677060572669374",
+      "priceUsd": "61455.2473635587174087",
+      "volumePercent": "0.8711795727276776"
+    },
+    {
+      "exchangeId": "Binance",
+      "baseId": "chiliz",
+      "quoteId": "bitcoin",
+      "baseSymbol": "CHZ",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "161347467.4718805059859879",
+      "priceUsd": "61351.6584095042614916",
+      "volumePercent": "0.8486434388154394"
+    },
+    {
+      "exchangeId": "Bitfinex",
+      "baseId": "bitcoin",
+      "quoteId": "united-states-dollar",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "USD",
+      "volumeUsd24Hr": "149546420.9106258940577277",
+      "priceUsd": "61417.0588167300000000",
+      "volumePercent": "0.7868066465627055"
+    },
+    {
+      "exchangeId": "YoBit",
+      "baseId": "dash",
+      "quoteId": "bitcoin",
+      "baseSymbol": "DASH",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "128190748.4791862189996973",
+      "priceUsd": "60985.1819718779292672",
+      "volumePercent": "0.6702206512035271"
+    },
+    {
+      "exchangeId": "coincheck",
+      "baseId": "bitcoin",
+      "quoteId": "japanese-yen",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "JPY",
+      "volumeUsd24Hr": "109684895.2925885531035985",
+      "priceUsd": "61525.1140839335015337",
+      "volumePercent": "0.5770837183413398"
+    },
+    {
+      "exchangeId": "Binance",
+      "baseId": "storj",
+      "quoteId": "bitcoin",
+      "baseSymbol": "STORJ",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "106775501.7671938360154064",
+      "priceUsd": "59137.0642177068373732",
+      "volumePercent": "0.5413375833251498"
+    },
+    {
+      "exchangeId": "Bitflyer",
+      "baseId": "bitcoin",
+      "quoteId": "japanese-yen",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "JPY",
+      "volumeUsd24Hr": "106407006.6312289072618645",
+      "priceUsd": "61529.7703402558684074",
+      "volumePercent": "0.5598378052011541"
+    },
+    {
+      "exchangeId": "Binance",
+      "baseId": "dogecoin",
+      "quoteId": "bitcoin",
+      "baseSymbol": "DOGE",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "105724158.7371995047427275",
+      "priceUsd": "61336.6495359161869198",
+      "volumePercent": "0.5559440486487793"
+    },
+    {
+      "exchangeId": "LBank",
+      "baseId": "ethereum",
+      "quoteId": "bitcoin",
+      "baseSymbol": "ETH",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "103881588.4326328692212882",
+      "priceUsd": "61580.0277370153831933",
+      "volumePercent": "0.5484224947111512"
+    },
+    {
+      "exchangeId": "ProBit",
+      "baseId": "ethereum",
+      "quoteId": "bitcoin",
+      "baseSymbol": "ETH",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "99680813.1810842553522698",
+      "priceUsd": "61380.1976922938436814",
+      "volumePercent": "0.5245376342691764"
+    },
+    {
+      "exchangeId": "Binance",
+      "baseId": "bitcoin",
+      "quoteId": "euro",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "EUR",
+      "volumeUsd24Hr": "96871993.8740682161799328",
+      "priceUsd": "61662.3118668679948278",
+      "volumePercent": "0.5096713661335297"
+    },
+    {
+      "exchangeId": "YoBit",
+      "baseId": "zcash",
+      "quoteId": "bitcoin",
+      "baseSymbol": "ZEC",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "96708312.1706960935349205",
+      "priceUsd": "61150.1404509970017130",
+      "volumePercent": "0.5069884443252372"
+    },
+    {
+      "exchangeId": "Binance",
+      "baseId": "binance-coin",
+      "quoteId": "bitcoin",
+      "baseSymbol": "BNB",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "91824666.0717800502673245",
+      "priceUsd": "61427.9311151168821071",
+      "volumePercent": "0.4835730000482701"
+    },
+    {
+      "exchangeId": "Bitstamp",
+      "baseId": "bitcoin",
+      "quoteId": "united-states-dollar",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "USD",
+      "volumeUsd24Hr": "90868127.5157502000000000",
+      "priceUsd": "61469.0000000000000000",
+      "volumePercent": "0.4780833018586783"
+    },
+    {
+      "exchangeId": "Kraken",
+      "baseId": "bitcoin",
+      "quoteId": "united-states-dollar",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "USD",
+      "volumeUsd24Hr": "90553498.0151446040000000",
+      "priceUsd": "61463.6000000000000000",
+      "volumePercent": "0.4764279457440098"
+    },
+    {
+      "exchangeId": "Coinsbit",
+      "baseId": "ethereum",
+      "quoteId": "bitcoin",
+      "baseSymbol": "ETH",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "85946096.7225085241441224",
+      "priceUsd": "61351.7563646458378894",
+      "volumePercent": "0.4520536248361745"
+    },
+    {
+      "exchangeId": "Dex-Trade",
+      "baseId": "bitcoin",
+      "quoteId": "tether",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "USDT",
+      "volumeUsd24Hr": "81991598.8228079470221592",
+      "priceUsd": "61442.6553611242359954",
+      "volumePercent": "0.4313813364657019"
+    },
+    {
+      "exchangeId": "Binance",
+      "baseId": "ankr",
+      "quoteId": "bitcoin",
+      "baseSymbol": "ANKR",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "80623031.5565898508402670",
+      "priceUsd": "61640.3086314616065821",
+      "volumePercent": "0.4260501543151746"
+    },
+    {
+      "exchangeId": "Binance",
+      "baseId": "solana",
+      "quoteId": "bitcoin",
+      "baseSymbol": "SOL",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "77911662.6563262440383661",
+      "priceUsd": "61409.1121613806945094",
+      "volumePercent": "0.4101777410620273"
+    },
+    {
+      "exchangeId": "Bitrue",
+      "baseId": "ethereum",
+      "quoteId": "bitcoin",
+      "baseSymbol": "ETH",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "77786808.4921602465317723",
+      "priceUsd": "61360.9125585592431393",
+      "volumePercent": "0.4091989975624939"
+    },
+    {
+      "exchangeId": "Binance",
+      "baseId": "cardano",
+      "quoteId": "bitcoin",
+      "baseSymbol": "ADA",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "77202625.9499512082099306",
+      "priceUsd": "61337.7346159877526316",
+      "volumePercent": "0.4059724876010175"
+    },
+    {
+      "exchangeId": "MXC.COM",
+      "baseId": "bitcoin",
+      "quoteId": "tether",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "USDT",
+      "volumeUsd24Hr": "76083953.7845847623941053",
+      "priceUsd": "61408.8167942132287541",
+      "volumePercent": "0.4002995201754605"
+    },
+    {
+      "exchangeId": "Coinbene",
+      "baseId": "ethereum",
+      "quoteId": "bitcoin",
+      "baseSymbol": "ETH",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "73802443.3354106198942820",
+      "priceUsd": "61354.7789207585075092",
+      "volumePercent": "0.3882003598654591"
+    },
+    {
+      "exchangeId": "Liquid",
+      "baseId": "bitcoin",
+      "quoteId": "japanese-yen",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "JPY",
+      "volumeUsd24Hr": "72705586.8306974935108882",
+      "priceUsd": "61532.8131292273586243",
+      "volumePercent": "0.3825249618967646"
+    },
+    {
+      "exchangeId": "Quoine",
+      "baseId": "bitcoin",
+      "quoteId": "japanese-yen",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "JPY",
+      "volumeUsd24Hr": "72704393.7631690217654508",
+      "priceUsd": "61531.7784056001659857",
+      "volumePercent": "0.3825186848260365"
+    },
+    {
+      "exchangeId": "Crypto.com Exchange",
+      "baseId": "decentraland",
+      "quoteId": "bitcoin",
+      "baseSymbol": "MANA",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "69542982.3333405206621778",
+      "priceUsd": "61713.9932271592416928",
+      "volumePercent": "0.3679372499060555"
+    },
+    {
+      "exchangeId": "Gemini",
+      "baseId": "bitcoin",
+      "quoteId": "united-states-dollar",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "USD",
+      "volumeUsd24Hr": "69020339.6412016141140000",
+      "priceUsd": "61451.8200000000000000",
+      "volumePercent": "0.3631358186109164"
+    },
+    {
+      "exchangeId": "Binance",
+      "baseId": "xrp",
+      "quoteId": "bitcoin",
+      "baseSymbol": "XRP",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "68719372.7786050995297661",
+      "priceUsd": "61366.9691919267316686",
+      "volumePercent": "0.3615352599740480"
+    },
+    {
+      "exchangeId": "Binance.US",
+      "baseId": "bitcoin",
+      "quoteId": "united-states-dollar",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "USD",
+      "volumeUsd24Hr": "65612120.4886864500000000",
+      "priceUsd": "61484.5700000000000000",
+      "volumePercent": "0.3452041993463948"
+    },
+    {
+      "exchangeId": "Kraken",
+      "baseId": "bitcoin",
+      "quoteId": "euro",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "EUR",
+      "volumeUsd24Hr": "62769191.3609777936863850",
+      "priceUsd": "61482.3353134184153008",
+      "volumePercent": "0.3302467331645415"
+    },
+    {
+      "exchangeId": "Crypto.com Exchange",
+      "baseId": "ethereum",
+      "quoteId": "bitcoin",
+      "baseSymbol": "ETH",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "62014432.5847556689622952",
+      "priceUsd": "61366.1709385542635701",
+      "volumePercent": "0.3259707377441884"
+    },
+    {
+      "exchangeId": "Bitfinex",
+      "baseId": "ethereum",
+      "quoteId": "bitcoin",
+      "baseSymbol": "ETH",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "59405116.3103718672753074",
+      "priceUsd": "61364.4180450872897133",
+      "volumePercent": "0.3125196062957416"
+    },
+    {
+      "exchangeId": "BTCBOX",
+      "baseId": "bitcoin",
+      "quoteId": "japanese-yen",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "JPY",
+      "volumeUsd24Hr": "58408443.2837052504161429",
+      "priceUsd": "61468.8093346944851570",
+      "volumePercent": "0.3073035858107570"
+    },
+    {
+      "exchangeId": "Binance",
+      "baseId": "enjin-coin",
+      "quoteId": "bitcoin",
+      "baseSymbol": "ENJ",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "55963399.3718312363161063",
+      "priceUsd": "61451.2854564344135717",
+      "volumePercent": "0.2948301252778051"
+    },
+    {
+      "exchangeId": "WhiteBIT",
+      "baseId": "ethereum",
+      "quoteId": "bitcoin",
+      "baseSymbol": "ETH",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "53360721.2666265614769110",
+      "priceUsd": "61381.0745773147341904",
+      "volumePercent": "0.2807973316752532"
+    },
+    {
+      "exchangeId": "Huobi",
+      "baseId": "ethereum",
+      "quoteId": "bitcoin",
+      "baseSymbol": "ETH",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "51071611.3604775866551339",
+      "priceUsd": "61332.0075693447449661",
+      "volumePercent": "0.2685366329384148"
+    },
+    {
+      "exchangeId": "Binance",
+      "baseId": "basic-attention-token",
+      "quoteId": "bitcoin",
+      "baseSymbol": "BAT",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "49984290.9462002258229264",
+      "priceUsd": "61393.1665207721362697",
+      "volumePercent": "0.2630815353608872"
+    },
+    {
+      "exchangeId": "Okex",
+      "baseId": "ethereum",
+      "quoteId": "bitcoin",
+      "baseSymbol": "ETH",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "48585895.3886595298567474",
+      "priceUsd": "61379.3208323268109122",
+      "volumePercent": "0.2556637103915457"
+    },
+    {
+      "exchangeId": "HitBTC",
+      "baseId": "xrp",
+      "quoteId": "bitcoin",
+      "baseSymbol": "XRP",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "48136110.5038053707128289",
+      "priceUsd": "61407.5021966770135257",
+      "volumePercent": "0.2534131958971791"
+    },
+    {
+      "exchangeId": "AscendEX (Bitmax)",
+      "baseId": "bitcoin",
+      "quoteId": "tether",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "USDT",
+      "volumeUsd24Hr": "47409754.9975548484090965",
+      "priceUsd": "61457.1990688879629978",
+      "volumePercent": "0.2494363296482953"
+    },
+    {
+      "exchangeId": "Binance",
+      "baseId": "polygon",
+      "quoteId": "bitcoin",
+      "baseSymbol": "MATIC",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "47237143.5314392124125009",
+      "priceUsd": "61301.3834677075992356",
+      "volumePercent": "0.2482508256629408"
+    },
+    {
+      "exchangeId": "Bibox",
+      "baseId": "bitcoin",
+      "quoteId": "tether",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "USDT",
+      "volumeUsd24Hr": "47166331.5862783634381032",
+      "priceUsd": "61214.4869958920371788",
+      "volumePercent": "0.2481556092087485"
+    },
+    {
+      "exchangeId": "Bitfinex",
+      "baseId": "bitcoin",
+      "quoteId": "tether",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "USDT",
+      "volumeUsd24Hr": "47120591.7851198130790597",
+      "priceUsd": "61476.7161221804188884",
+      "volumePercent": "0.2479149589855946"
+    },
+    {
+      "exchangeId": "Currency.com",
+      "baseId": "bitcoin",
+      "quoteId": "united-states-dollar",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "USD",
+      "volumeUsd24Hr": "47032215.3205044820000000",
+      "priceUsd": "60746.3000000000000000",
+      "volumePercent": "0.2474499850374677"
+    },
+    {
+      "exchangeId": "Binance",
+      "baseId": "polkadot",
+      "quoteId": "bitcoin",
+      "baseSymbol": "DOT",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "45145847.2657301984517770",
+      "priceUsd": "61378.9704614363510452",
+      "volumePercent": "0.2377022948513438"
+    },
+    {
+      "exchangeId": "Bithumb Global",
+      "baseId": "bitcoin",
+      "quoteId": "tether",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "USDT",
+      "volumeUsd24Hr": "45004141.0323564259801427",
+      "priceUsd": "61442.7764669421020038",
+      "volumePercent": "0.2367797040643680"
+    },
+    {
+      "exchangeId": "Huobi",
+      "baseId": "decentraland",
+      "quoteId": "bitcoin",
+      "baseSymbol": "MANA",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "44999748.3846710439322388",
+      "priceUsd": "59714.2063160465150599",
+      "volumePercent": "0.2303692709132635"
+    },
+    {
+      "exchangeId": "Bitrue",
+      "baseId": "enjin-coin",
+      "quoteId": "bitcoin",
+      "baseSymbol": "ENJ",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "39455733.0250257764760016",
+      "priceUsd": "61451.2854564344135717",
+      "volumePercent": "0.2078633328437735"
+    },
+    {
+      "exchangeId": "Binance",
+      "baseId": "filecoin",
+      "quoteId": "bitcoin",
+      "baseSymbol": "FIL",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "38885598.2934649711294971",
+      "priceUsd": "61370.8418222250384675",
+      "volumePercent": "0.2043738891105175"
+    },
+    {
+      "exchangeId": "Binance",
+      "baseId": "fantom",
+      "quoteId": "bitcoin",
+      "baseSymbol": "FTM",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "37327893.6066259918707397",
+      "priceUsd": "61409.7703300315003757",
+      "volumePercent": "0.1965204522232375"
+    },
+    {
+      "exchangeId": "HitBTC",
+      "baseId": "decentraland",
+      "quoteId": "bitcoin",
+      "baseSymbol": "MANA",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "36897808.6959831444594521",
+      "priceUsd": "62547.5266821206976585",
+      "volumePercent": "0.1978552205816740"
+    },
+    {
+      "exchangeId": "Bitrue",
+      "baseId": "cardano",
+      "quoteId": "bitcoin",
+      "baseSymbol": "ADA",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "36807421.1794159658024165",
+      "priceUsd": "61433.5748263252334951",
+      "volumePercent": "0.1938554327623109"
+    },
+    {
+      "exchangeId": "WazirX",
+      "baseId": "bitcoin",
+      "quoteId": "indian-rupee",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "INR",
+      "volumeUsd24Hr": "35384181.1619569292967165",
+      "priceUsd": "64909.4128365318249433",
+      "volumePercent": "0.1861663338505776"
+    },
+    {
+      "exchangeId": "ExMarkets",
+      "baseId": "bitcoin",
+      "quoteId": "tether",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "USDT",
+      "volumeUsd24Hr": "35157185.2834819135082534",
+      "priceUsd": "61337.6546152853511222",
+      "volumePercent": "0.1849720433764966"
+    },
+    {
+      "exchangeId": "Bitrue",
+      "baseId": "xrp",
+      "quoteId": "bitcoin",
+      "baseSymbol": "XRP",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "34735262.4955284040701316",
+      "priceUsd": "61333.2325403643750266",
+      "volumePercent": "0.1826430865652725"
+    },
+    {
+      "exchangeId": "Binance",
+      "baseId": "theta",
+      "quoteId": "bitcoin",
+      "baseSymbol": "THETA",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "33793891.9024382082917420",
+      "priceUsd": "61281.7411253255145422",
+      "volumePercent": "0.1775440426743426"
+    },
+    {
+      "exchangeId": "Bitstamp",
+      "baseId": "bitcoin",
+      "quoteId": "euro",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "EUR",
+      "volumeUsd24Hr": "31394426.9911586096353692",
+      "priceUsd": "61459.1315527212157048",
+      "volumePercent": "0.1651750919297064"
+    },
+    {
+      "exchangeId": "Binance",
+      "baseId": "horizen",
+      "quoteId": "bitcoin",
+      "baseSymbol": "ZEN",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "29753754.2855603979736651",
+      "priceUsd": "61252.5523381979257106",
+      "volumePercent": "0.1562437882936078"
+    },
+    {
+      "exchangeId": "Kucoin",
+      "baseId": "ethereum",
+      "quoteId": "bitcoin",
+      "baseSymbol": "ETH",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "29578945.3209201027976154",
+      "priceUsd": "61382.8284225223836199",
+      "volumePercent": "0.1556561838311612"
+    },
+    {
+      "exchangeId": "BTCTurk",
+      "baseId": "bitcoin",
+      "quoteId": "turkish-lira",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "TRY",
+      "volumeUsd24Hr": "29101275.9091847197041611",
+      "priceUsd": "61468.9637571305469900",
+      "volumePercent": "0.1531101658560305"
+    },
+    {
+      "exchangeId": "ProBit",
+      "baseId": "bitcoin",
+      "quoteId": "tether",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "USDT",
+      "volumeUsd24Hr": "28683666.2138900353624326",
+      "priceUsd": "61372.2248214761935049",
+      "volumePercent": "0.1509130013774285"
+    },
+    {
+      "exchangeId": "DigiFinex",
+      "baseId": "wrapped-bitcoin",
+      "quoteId": "bitcoin",
+      "baseSymbol": "WBTC",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "27590144.7047342016330162",
+      "priceUsd": "61359.3750885169202905",
+      "volumePercent": "0.1451348486185945"
+    },
+    {
+      "exchangeId": "Coinsbit",
+      "baseId": "bitcoin",
+      "quoteId": "united-states-dollar",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "USD",
+      "volumeUsd24Hr": "27417144.6924791970000000",
+      "priceUsd": "61396.5400000000000000",
+      "volumePercent": "0.1442494681080078"
+    },
+    {
+      "exchangeId": "Binance",
+      "baseId": "0x",
+      "quoteId": "bitcoin",
+      "baseSymbol": "ZRX",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "27125348.3142956417969636",
+      "priceUsd": "61516.5431008930274869",
+      "volumePercent": "0.1430553302183107"
+    },
+    {
+      "exchangeId": "Binance",
+      "baseId": "zilliqa",
+      "quoteId": "bitcoin",
+      "baseSymbol": "ZIL",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "26806996.9839455846136216",
+      "priceUsd": "61167.3536287961414975",
+      "volumePercent": "0.1405738874269036"
+    },
+    {
+      "exchangeId": "Binance",
+      "baseId": "siacoin",
+      "quoteId": "bitcoin",
+      "baseSymbol": "SC",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "26501774.1783370437377817",
+      "priceUsd": "60497.8433980793931837",
+      "volumePercent": "0.1374521826371617"
+    },
+    {
+      "exchangeId": "Poloniex",
+      "baseId": "bitcoin",
+      "quoteId": "tether",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "USDT",
+      "volumeUsd24Hr": "26232111.7215934138649024",
+      "priceUsd": "61440.8618796552540165",
+      "volumePercent": "0.1380146694935621"
+    },
+    {
+      "exchangeId": "Binance",
+      "baseId": "coti",
+      "quoteId": "bitcoin",
+      "baseSymbol": "COTI",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "25830333.6247649782117973",
+      "priceUsd": "61225.0509173242314036",
+      "volumePercent": "0.1355801058465787"
+    },
+    {
+      "exchangeId": "CoinTiger",
+      "baseId": "bitcoin",
+      "quoteId": "tether",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "USDT",
+      "volumeUsd24Hr": "24664907.2171828096239186",
+      "priceUsd": "61239.8591651722298366",
+      "volumePercent": "0.1297691567418379"
+    },
+    {
+      "exchangeId": "Binance",
+      "baseId": "chainlink",
+      "quoteId": "bitcoin",
+      "baseSymbol": "LINK",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "23906202.0505920190065431",
+      "priceUsd": "61368.7703653155236008",
+      "volumePercent": "0.1257751388212283"
+    },
+    {
+      "exchangeId": "Binance",
+      "baseId": "alien-worlds",
+      "quoteId": "bitcoin",
+      "baseSymbol": "TLM",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "23746082.1701488034665969",
+      "priceUsd": "61513.5391009760556264",
+      "volumePercent": "0.1252274331401133"
+    },
+    {
+      "exchangeId": "HitBTC",
+      "baseId": "eos",
+      "quoteId": "bitcoin",
+      "baseSymbol": "EOS",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "22824115.8818443565183809",
+      "priceUsd": "61419.0925693280408643",
+      "volumePercent": "0.1201805417628722"
+    },
+    {
+      "exchangeId": "KickEX",
+      "baseId": "bitcoin",
+      "quoteId": "tether",
+      "baseSymbol": "BTC",
+      "quoteSymbol": "USDT",
+      "volumeUsd24Hr": "22753432.7232962525767419",
+      "priceUsd": "61420.0666239059058931",
+      "volumePercent": "0.1197123407554236"
+    },
+    {
+      "exchangeId": "Huobi",
+      "baseId": "xrp",
+      "quoteId": "bitcoin",
+      "baseSymbol": "XRP",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "22425457.9035580055211730",
+      "priceUsd": "61232.2447809675072302",
+      "volumePercent": "0.1177221807829077"
+    },
+    {
+      "exchangeId": "Okex",
+      "baseId": "ethereum-classic",
+      "quoteId": "bitcoin",
+      "baseSymbol": "ETC",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "22000601.8288237616697191",
+      "priceUsd": "61360.2329027187335256",
+      "volumePercent": "0.1157333058430505"
+    },
+    {
+      "exchangeId": "Binance",
+      "baseId": "axie-infinity",
+      "quoteId": "bitcoin",
+      "baseSymbol": "AXS",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "21742357.8645998831632334",
+      "priceUsd": "61364.9423388575980216",
+      "volumePercent": "0.1142436668029264"
+    },
+    {
+      "exchangeId": "YoBit",
+      "baseId": "litecoin",
+      "quoteId": "bitcoin",
+      "baseSymbol": "LTC",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "20997320.6953150062778217",
+      "priceUsd": "60761.6729815037633934",
+      "volumePercent": "0.1093781069059036"
+    },
+    {
+      "exchangeId": "BigONE",
+      "baseId": "xrp",
+      "quoteId": "bitcoin",
+      "baseSymbol": "XRP",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "20775545.3106098383108903",
+      "priceUsd": "61366.9691919267316686",
+      "volumePercent": "0.1093009419508617"
+    },
+    {
+      "exchangeId": "Bithumb Global",
+      "baseId": "ethereum",
+      "quoteId": "bitcoin",
+      "baseSymbol": "ETH",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "19925405.6495619353149684",
+      "priceUsd": "61105.2202728173160943",
+      "volumePercent": "0.1043811996258050"
+    },
+    {
+      "exchangeId": "Binance",
+      "baseId": "qtum",
+      "quoteId": "bitcoin",
+      "baseSymbol": "QTUM",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "19827507.7099591849655759",
+      "priceUsd": "61472.3993537447308106",
+      "volumePercent": "0.1044924928350511"
+    },
+    {
+      "exchangeId": "HitBTC",
+      "baseId": "bitcoin-cash",
+      "quoteId": "bitcoin",
+      "baseSymbol": "BCH",
+      "quoteSymbol": "BTC",
+      "volumeUsd24Hr": "19582222.1883871403223444",
+      "priceUsd": "61400.9197319265154535",
+      "volumePercent": "0.1030798193063505"
+    }
+  ],
+  "timestamp": 1635716337084
+}
