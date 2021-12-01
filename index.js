@@ -1,11 +1,11 @@
 const express = require('express');
 const cors = require('cors');
 const path = require('path');
-const axios = require('axios');
+//const axios = require('axios');
 
 const app = express();
 const port = process.env.PORT || 3001;
-const API_KEY = process.env.KEY || 0;
+//const API_KEY = process.env.KEY || 0;
 
 
 app.use(cors());
@@ -13,7 +13,6 @@ app.use(cors());
 app.use(express.static("public"));
 
 
-/*
 const callBackOnError = function (err) {
     if (err) {
         console.log('Error');
@@ -21,13 +20,13 @@ const callBackOnError = function (err) {
     }
 };
 
-const options = (endfix) => {
+/*const options = (endfix) => {
     return {
         'method': 'GET',
         'url': 'api.coincap.io/v2/'+endfix,
         'headers': {}
     };
-};
+};*/
 
 app.get("/get/assets*", function (req, res) {
     res.sendFile(path.join(__dirname, 'public/assets.json'), callBackOnError);
@@ -55,11 +54,11 @@ app.get('/*', function (req, res) {
 
 app.listen(port, () => {
     console.log(`Example port listening at http://localhost:${port}`);
-});*/
+});
 
 
 
-
+/*
 // Error callback
 const callBackOnError = function (err) {
     if (err) {
@@ -146,4 +145,4 @@ app.get('/*', function (req, res) {
 
 app.listen(port, () => {
     console.log(`Example port listening at http://localhost:${port}`);
-});
+});*/
