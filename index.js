@@ -1,17 +1,82 @@
 const express = require('express');
 const cors = require('cors');
 const path = require('path');
-const axios = require('axios');
+//const axios = require('axios');
 
 const app = express();
 const port = process.env.PORT || 3001;
-const API_KEY = process.env.KEY || 0;
+//const API_KEY = process.env.KEY || 0;
 
 
 app.use(cors());
 
 app.use(express.static("public"));
 
+
+const callBackOnError = function (err) {
+    if (err) {
+        console.log('Error');
+        //res.status(500).send(err);
+    }
+};
+
+/*const options = (endfix) => {
+    return {
+        'method': 'GET',
+        'url': 'api.coincap.io/v2/'+endfix,
+        'headers': {}
+    };
+};*/
+
+app.get("/get/assets*", function (req, res) {
+    res.sendFile(path.join(__dirname, 'public/assets.json'), callBackOnError);
+    //req.pipe(request("https://api.coincap.io/v2/assets")).pipe(res);
+    /*request(options("assets"), function (error, response, _res = res) {
+        callBackOnError(error);
+        console.log(response.body);
+        if (response.body.includes("You exceeded your 200 request(s) rate limit of your FREE plan")) {
+            _res.sendFile(path.join(__dirname, 'public/assets.json'), callBackOnError);
+        } else {
+            _res.send(response.body);
+        }
+    });*/
+});
+
+app.get("/get/history*", function (req, res) {
+    res.sendFile(path.join(__dirname, 'public/history.json'), callBackOnError);
+});
+
+app.get("/get/markets*", function (req, res) {
+    res.sendFile(path.join(__dirname, 'public/markets.json'), callBackOnError);
+});
+
+app.get("/get/exchanges*", function (req, res) {
+    res.sendFile(path.join(__dirname, 'public/exchanges.json'), callBackOnError);
+});
+
+app.get("/get/rates*", function (req, res) {
+    res.sendFile(path.join(__dirname, 'public/rates.json'), callBackOnError);
+});
+
+app.get('/*', function (req, res) {
+    res.sendFile(path.join(__dirname, 'public/index.html'), callBackOnError);
+});
+
+/*app.get("/get/assets", (req, res) => {
+    async function getAssets() {
+        const data = await fetchData("https://api.coincap.io/v2/assets");
+        res.send(data);
+    }
+    getAssets();
+});*/
+
+app.listen(port, () => {
+    console.log(`Example port listening at http://localhost:${port}`);
+});
+
+
+
+/*
 // Error callback
 const callBackOnError = function (err) {
     if (err) {
@@ -72,12 +137,12 @@ app.get("/get/assets*", async function (req, response) {
     await fetchAndCheck('/assets', 'public/assets.json', response);
 });
 
-app.get("/get/history/:coin", async function (req, response) {
+app.get("/get/history/:coin*", async function (req, response) {
     const pathForURL = `/assets/${req.params.coin}/history?interval=d1`;
     await fetchAndCheck(pathForURL, 'public/history.json', response);
 });
 
-app.get("/get/markets/:coin", async function (req, response) {
+app.get("/get/markets/:coin*", async function (req, response) {
     const pathForURL = `/assets/${req.params.coin}/markets`;
     await fetchAndCheck(pathForURL, 'public/markets.json', response);
 });
@@ -98,4 +163,4 @@ app.get('/*', function (req, res) {
 
 app.listen(port, () => {
     console.log(`Example port listening at http://localhost:${port}`);
-});
+});*/
