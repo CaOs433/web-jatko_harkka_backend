@@ -1,11 +1,11 @@
 const express = require('express');
 const cors = require('cors');
 const path = require('path');
-//const axios = require('axios');
+const axios = require('axios');
 
 const app = express();
 const port = process.env.PORT || 3001;
-//const API_KEY = process.env.KEY || 0;
+const API_KEY = process.env.KEY || 0;
 
 
 app.use(cors());
@@ -13,52 +13,6 @@ app.use(cors());
 app.use(express.static("public"));
 
 
-const callBackOnError = function (err) {
-    if (err) {
-        console.log('Error');
-        //res.status(500).send(err);
-    }
-};
-
-/*const options = (endfix) => {
-    return {
-        'method': 'GET',
-        'url': 'api.coincap.io/v2/'+endfix,
-        'headers': {}
-    };
-};*/
-
-app.get("/get/assets*", function (req, res) {
-    res.sendFile(path.join(__dirname, 'public/assets.json'), callBackOnError);
-});
-
-app.get("/get/history*", function (req, res) {
-    res.sendFile(path.join(__dirname, 'public/history.json'), callBackOnError);
-});
-
-app.get("/get/markets*", function (req, res) {
-    res.sendFile(path.join(__dirname, 'public/markets.json'), callBackOnError);
-});
-
-app.get("/get/exchanges*", function (req, res) {
-    res.sendFile(path.join(__dirname, 'public/exchanges.json'), callBackOnError);
-});
-
-app.get("/get/rates*", function (req, res) {
-    res.sendFile(path.join(__dirname, 'public/rates.json'), callBackOnError);
-});
-
-app.get('/*', function (req, res) {
-    res.sendFile(path.join(__dirname, 'public/index.html'), callBackOnError);
-});
-
-app.listen(port, () => {
-    console.log(`Example port listening at http://localhost:${port}`);
-});
-
-
-
-/*
 // Error callback
 const callBackOnError = function (err) {
     if (err) {
@@ -99,7 +53,7 @@ const fetchAndCheck = async (pathForURL, redirectUrl, response) => {
                     response.sendFile(path.join(__dirname, redirectUrl), callBackOnError);
                     // Return from the function
                     return;
-            } response.send({ data });
+            } response.send(data);
         } else {
             // Request wasn't succesfull
             console.log(`Error: status code (${res.status})`);
@@ -145,4 +99,4 @@ app.get('/*', function (req, res) {
 
 app.listen(port, () => {
     console.log(`Example port listening at http://localhost:${port}`);
-});*/
+});
